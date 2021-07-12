@@ -1,0 +1,13 @@
+.POP
+\\ REMOVE ELEMENT
+
+.UNSHIFT
+//ADD 1ST ELEMENT
+
+.SHIFT
+//REMOVE 1ST
+
+.CONCAT
+//join array
+
+avavbale not = july 20 and 21
